@@ -1,0 +1,9 @@
+package: libmsquic
+slices:
+  libs:
+    essential:
+      - libnuma1_libs
+      - libssl3_libs
+    contents:
+      /usr/lib/*-linux-*/libmsquic.lttng.so*:
+      /usr/lib/*-linux-*/libmsquic.so*:
