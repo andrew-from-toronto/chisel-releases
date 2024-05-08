@@ -9,7 +9,7 @@ archives:
 
 public-keys:
   microsoft-archive-key:
-    id: "gpgsecurity@microsoft.com"
+    id: "EB3E94ADBE1229CF"
     armor: |
       -----BEGIN PGP PUBLIC KEY BLOCK-----
       Version: GnuPG v1.4.7 (GNU/Linux)
